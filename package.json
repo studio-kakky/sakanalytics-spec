@@ -1,0 +1,24 @@
+{
+  "name": "sakanalytics-spec",
+  "version": "1.0.0",
+  "description": "Sakanlyticsの仕様書",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "ui-spec-md": "^0.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studio-kakky/sakanalytics-spec.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/studio-kakky/sakanalytics-spec/issues"
+  },
+  "homepage": "https://github.com/studio-kakky/sakanalytics-spec#readme",
+  "private": true
+}
