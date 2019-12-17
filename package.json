@@ -8,7 +8,9 @@
     "ui-spec-md": "^0.3.3"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate:ui-spec": "ui-spec-md generate -m ui-spec -d dist/public",
+    "edit:ui-spec": "ui-spec-md edit-server -m md -d dist/edit"
   },
   "repository": {
     "type": "git",
